@@ -49,6 +49,14 @@
     "link": "https://pantheon.io/"
   },
   {
+    "name": "Major League Soccer",
+    "level": "Gold",
+    "image": {
+      "url": "/images/mls-logo.png"
+    },
+    "link": "https://www.mlssoccer.com/"
+  },
+  {
     "name": "QED42",
     "level": "Gold",
     "image": {
@@ -120,6 +128,14 @@
       "url": "/images/rootstack-logo.png"
     },
     "link": "https://www.rootstack.com/"
+  },
+  {
+    "name": "Axelerant",
+    "level": "Silver",
+    "image": {
+      "url": "/images/axelerant-logo.png"
+    },
+    "link": "https://www.axelerant.com/"
   },
   {
     "name": "Johnson & Johnson",
